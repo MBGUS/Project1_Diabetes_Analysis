@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/80076539/117385238-4cbc1500-aeaa-11eb-95fb-730d3ae7915d.png)
+
 *Project Title*
 
 Diabetes disease diagnosed for population in the US.
